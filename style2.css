@@ -1,0 +1,21 @@
+
+#miniSlide { 
+    width: 30%; 
+    margin: 20px auto; 
+}
+
+#miniSlide img {
+     height: 500px; 
+     object-fit: cover; 
+    }
+
+.carousel-control-prev, .carousel-control-next { 
+    width: 25px; 
+    height: 25px; 
+    top: 50%; }
+
+.carousel-item, #miniSlide h1{
+    text-align: center;
+    color: #002366;
+
+}
